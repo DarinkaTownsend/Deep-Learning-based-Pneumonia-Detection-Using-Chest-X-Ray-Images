@@ -1,0 +1,35 @@
+Python
+
+pycache/ .pyc .pyo *.pyd
+
+Jupyter
+
+.ipynb_checkpoints/
+
+Virtual environments
+
+venv/ .env/
+
+Dataset / Data folders
+
+data/ datasets/ *.zip
+
+Model checkpoints
+
+.pt .pth
+
+Logs
+
+*.log
+
+OS files
+
+.DS_Store Thumbs.db
+
+Colab / Drive
+
+content/ drive/
+
+Temporary files
+
+*.tmp
