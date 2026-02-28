@@ -30,6 +30,18 @@ The validation set contains only 16 images, leading to noisy
 validation curves. Final evaluation is based on the test set (624
 images).
 
+<p align="center">
+  <img src="assigment1fig/dataset.png" width="500">
+</p>
+
+<p align="center">
+  <img src="assigment1fig/dataset1.png" width="500">
+</p>
+
+<p align="center">
+  <img src="assigment1fig/dataset3.png" width="500">
+</p>
+
 ------------------------------------------------------------------------
 
 ## Experimental Setup
