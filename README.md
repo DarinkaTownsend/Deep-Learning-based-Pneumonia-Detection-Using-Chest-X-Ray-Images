@@ -60,9 +60,9 @@ Recall: 0.6590 - Macro F1: 0.6595
 Observation: Model strongly biased toward Pneumonia class. Low recall
 for NORMAL.
 
-![Graphs](assigment1fig/task1)
-![Matrix](assigment1fig/task1matrix)
-![Metrics](assigment1fig/task1tab)
+![Graphs](assigment1fig/task1.png)
+![Matrix](assigment1fig/task1matrix.png)
+![Metrics](assigment1fig/task1tab.png)
 
 ------------------------------------------------------------------------
 
@@ -76,9 +76,9 @@ Recall: 0.7295 - Macro F1: 0.7447
 Observation: Transfer learning significantly improves feature extraction
 and overall performance. Class imbalance still affects NORMAL detection.
 
-![Graphs](assigment1fig/task2)
-![Matrix](assigment1fig/task2matrix)
-![Metrics](assigment1fig/task2tab)
+![Graphs](assigment1fig/task2.png)
+![Matrix](assigment1fig/task2matrix.png)
+![Metrics](assigment1fig/task2tab.png)
 
 ------------------------------------------------------------------------
 
@@ -93,9 +93,9 @@ Recall: 0.7846 - Macro F1: 0.8047
 Observation: Balanced sampling reduces model bias and significantly
 improves minority class detection while maintaining high Pneumonia
 recall.
-![Graphs](assigment1fig/task3)
-![Matrix](assigment1fig/task3matrix)
-![Metrics](assigment1fig/task3tab)
+![Graphs](assigment1fig/task3.png)
+![Matrix](assigment1fig/task3matrix.png)
+![Metrics](assigment1fig/task3tab.png)
 
 ------------------------------------------------------------------------
 
@@ -110,9 +110,9 @@ recall.
 The final model (Task 1.2.1) achieves the best overall balance between
 classes and the highest macro F1-score.
 
-![Accuracy](assigment1fig/tresaccuracy)
-![Loss](assigment1fig/tresloss)
-![Comparision](assigment1fig/comparision)
+![Accuracy](assigment1fig/tresaccuracy.png)
+![Loss](assigment1fig/tresloss.png)
+![Comparision](assigment1fig/comparision.png)
 
 
 
